@@ -1,4 +1,4 @@
-# WeatherIntegrationAPIQuarkus
+# WeatherIntegrationAPI Quarkus
 
 - Aplicação de coleta de temperaturas climáticas para cidades cadastradas.
 
